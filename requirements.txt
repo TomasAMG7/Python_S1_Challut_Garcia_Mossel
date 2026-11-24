@@ -1,5 +1,9 @@
 numpy
 pandas
-BeautifulSoup
+matplotlib
+requests
+s3fs
 geopandas
+seaborn
 pyfixest
+pdfplumber
