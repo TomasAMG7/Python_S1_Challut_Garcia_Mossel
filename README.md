@@ -1,5 +1,6 @@
 # Projet Python S1 ENSAE: Respirer a un prix : qualité de l'air et coût de la vie en Île-de-France
 
+_Challut Gauthier, Garcia Loréna, Mossel Tomas_
 
 ## Sujet et objectif
 
@@ -15,10 +16,7 @@ Ce projet s’organise de la façon suivante :
 
 1) un dossier 'code' dans lequel se trouve la fonction de récupération de données 
 2) un dossier 'data' dans lequel se trouve l'extraction via API et scrapping de nos données, puis leur stockage
-3) un dossier 'axe de réflexion' dans lequel se trouve 
-    3.1) notebook sur la mortalité 
-    3.2) notebook sur la pollution 
-    3.3) notebook sur les prix immobiliers
+3) un dossier 'axe de réflexion' dans lequel se trouve : 1) notebook sur la mortalité 2) notebook sur la pollution 3) notebook sur les prix immobiliers
 4) un notebook final qui constitue une synthèse de notre projet 
 
 Dans le notebook de synthèse, la première partie consiste à la récupération de données ainsi qu’aux premières manipulations nécessaires pour les nettoyer et les rendre exploitables. Nous avons une sous section pour chaque base d’intérêt : pollution, mortalité, prix de l’immobilier. 
@@ -26,5 +24,11 @@ Dans le notebook de synthèse, la première partie consiste à la récupération
 Nous nous concentrons ensuite sur les statistiques descriptives, encore une fois pour chaque sous section. Cette partie comprend des statistiques classiques (moyenne, médiane…) mais également de la visualisation à travers des graphiques. 
 
 Enfin, nous utilisons nos bases pour tenter d’observer des liens entre pollution et moralité dans un premier temps, puis pollution et prix de l’immobilier, à travers des régressions à effets fixes, déclinées en fonction de certains éléments (échelle d’analyse, inclusion des années Covid…). 
+
+
+## Utilisation de l'IA
+
+Nous nous sommes éfforcer de coder le plus possible par nous même dans la limite du possible. Nous n'avons utilisé aucun agent dans ce projet. L'usage de l'IA a donc été modéré tant que possible et son recours n'a pas été fait en volonté de gain de temps mais de connaissances : explication de comment fonctionne le traitement de données de fichier spéciaux ainsi que mise en forme des données. Encore une fois chaque ligne de code a été sinon à 100% écrite du moins comprise par chacun de nous.
+
 
 
