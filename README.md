@@ -28,7 +28,7 @@ Enfin, nous utilisons nos bases pour tenter d’observer des liens entre polluti
 
 ## Utilisation de l'IA
 
-Nous nous sommes éfforcer de coder le plus possible par nous même dans la limite du possible. Nous n'avons utilisé aucun agent dans ce projet. L'usage de l'IA a donc été modéré tant que possible et son recours n'a pas été fait en volonté de gain de temps mais de connaissances : explication de comment fonctionne le traitement de données de fichier spéciaux ainsi que mise en forme des données. Encore une fois chaque ligne de code a été sinon à 100% écrite du moins comprise par chacun de nous.
+Nous nous sommes efforcés de coder le plus possible par nous même dans la limite du possible. Nous n'avons utilisé aucun agent en 'vibe coding' dans ce projet. L'usage de l'IA a donc été modéré tant que possible et son recours n'a pas été fait en volonté de gain de temps mais de connaissances : explication de comment fonctionne le traitement de données de fichier spéciaux ainsi que mise en forme des données, ou des graphiques. Encore une fois chaque ligne de code a été sinon à 100% écrite du moins comprise par chacun de nous.
 
 
 
