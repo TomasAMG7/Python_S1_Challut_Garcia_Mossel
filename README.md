@@ -1,5 +1,6 @@
 # Projet Python S1 ENSAE: Respirer a un prix : qualité de l'air et coût de la vie en Île-de-France
 
+_Challut Gauthier, Garcia Loréna, Mossel Tomas_
 
 ## Sujet et objectif
 
@@ -15,10 +16,7 @@ Ce projet s’organise de la façon suivante :
 
 1) un dossier 'code' dans lequel se trouve la fonction de récupération de données 
 2) un dossier 'data' dans lequel se trouve l'extraction via API et scrapping de nos données, puis leur stockage
-3) un dossier 'axe de réflexion' dans lequel se trouve 
-    3.1) notebook sur la mortalité 
-    3.2) notebook sur la pollution 
-    3.3) notebook sur les prix immobiliers
+3) un dossier 'axe de réflexion' dans lequel se trouve : 1) notebook sur la mortalité 2) notebook sur la pollution 3) notebook sur les prix immobiliers
 4) un notebook final qui constitue une synthèse de notre projet 
 
 Dans le notebook de synthèse, la première partie consiste à la récupération de données ainsi qu’aux premières manipulations nécessaires pour les nettoyer et les rendre exploitables. Nous avons une sous section pour chaque base d’intérêt : pollution, mortalité, prix de l’immobilier. 
